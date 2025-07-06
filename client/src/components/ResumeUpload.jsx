@@ -21,7 +21,7 @@ const ResumeUpload = ({ setParsedText, setScores, setFeedback }) => {
     const form = new FormData();
     form.append('resume', file);
     try {
-      const res = await fetch('http://localhost:5000/upload', {
+      const res = await fetch('https://ai-resume-evaluator-backend.onrender.com/upload', {
         method: 'POST',
         body: form,
       });
