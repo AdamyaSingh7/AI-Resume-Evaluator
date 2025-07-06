@@ -112,9 +112,10 @@ MIT © 2025 [ADAMYA SINGH]
 ##📬 Contact
 
 
-###**Adamya Singh**
+#### **Adamya Singh**
 
-* B.Tech CSE @ Jaypee Institute of Information Technology
-* [LinkedIn](https://www.linkedin.com/in/adamya-singh-35598a24a/) | [GitHub](https://github.com/AdamyaSingh7)
-* [Email] (adamyasingh54@gmail.com)
+* B.Tech CSE @ Jaypee Institute of Information Technology  
+* [LinkedIn](https://www.linkedin.com/in/adamya-singh-35598a24a/) | [GitHub](https://github.com/AdamyaSingh7)  
+* 📧 [Email](mailto:adamyasingh54@gmail.com)
+
 
