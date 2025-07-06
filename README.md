@@ -81,7 +81,9 @@ venv\Scripts\activate  # or source venv/bin/activate
 pip install -r requirements.txt
 python app.py
 
-🎯 To-Do / Enhancements
+---
+
+##🎯 To-Do / Enhancements
 ✅ Replace dummy scoring with smart section analysis
 
 ✅ Full local model-based feedback (no OpenAI)
@@ -93,6 +95,8 @@ python app.py
 ⏳ AI-powered resume builder
 
 ⏳ Multilingual support
+
+---
 
 ##🤝 Acknowledgements
 
@@ -106,11 +110,14 @@ python app.py
 
    Framer Motion
 
+---
+
 ##📄 License
 MIT © 2025 [ADAMYA SINGH]
 
-##📬 Contact
+---
 
+##📬 Contact
 
 #### **Adamya Singh**
 
